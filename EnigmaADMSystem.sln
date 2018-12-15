@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaADMSystem", "EnigmaADMSystem\EnigmaADMSystem.csproj", "{FF8C2EDB-D79E-4635-85AF-E20937991AC6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupEnigmaADMSystem", "SetupEnigmaADMSystem\SetupEnigmaADMSystem.vdproj", "{42D6FE29-D29D-413E-B87D-7BD76F0DD778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8C2EDB-D79E-4635-85AF-E20937991AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8C2EDB-D79E-4635-85AF-E20937991AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8C2EDB-D79E-4635-85AF-E20937991AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8C2EDB-D79E-4635-85AF-E20937991AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D6FE29-D29D-413E-B87D-7BD76F0DD778}.Debug|Any CPU.ActiveCfg = Debug
+		{42D6FE29-D29D-413E-B87D-7BD76F0DD778}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A7B5A8-E90F-4141-B0EE-31F1F2E06C9F}
+	EndGlobalSection
+EndGlobal
